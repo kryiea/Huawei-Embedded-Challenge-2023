@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="kryiea (90217b35-1c7a-45b1-a66e-01cfe055696e)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/Huawei-Embedded-Challenge-2023" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
